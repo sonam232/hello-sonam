@@ -1,2 +1,4 @@
 # hello-sonam
-coding is life
+hello folks, its my codemaniac. i love angular javascript. 
+its an awesome framework.
+programming is fun.
